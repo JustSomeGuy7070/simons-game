@@ -1,6 +1,6 @@
 ## 🚀 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Play%20Game-Live%20Demo-00ffcc?style=for-the-badge&logo=github)](https://YOUR_USERNAME.github.io/simon-game/)
+https://JustSomeGuy7070.github.io/simons-game
 
 
 ## ✨ Features
